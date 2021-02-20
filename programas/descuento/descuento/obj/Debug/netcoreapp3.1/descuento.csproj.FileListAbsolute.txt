@@ -1,0 +1,13 @@
+C:\Users\Bryan\source\repos\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.exe
+C:\Users\Bryan\source\repos\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.deps.json
+C:\Users\Bryan\source\repos\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.runtimeconfig.json
+C:\Users\Bryan\source\repos\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.dll
+C:\Users\Bryan\source\repos\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.pdb
+C:\Users\Bryan\source\repos\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.dll
+C:\Users\Bryan\source\repos\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.pdb
+C:\Users\Bryan\source\repos\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.genruntimeconfig.cache
